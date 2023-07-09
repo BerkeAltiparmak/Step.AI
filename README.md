@@ -1,5 +1,7 @@
 # Step.AI
 
+Backed by ICUBE Ideation Lab acceleration.
+
 
 ## Description
 
